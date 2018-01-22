@@ -44,6 +44,7 @@
   ],
   "dependencies": {
     "chai": "^1.9.1",
+    "coffee-script": "~1.8.0",
     "este-watch": "^0.1.0",
     "event-stream": "^3.1.2",
     "gulp": "^3.6.1",
@@ -76,7 +77,6 @@
     "sinon": "^1.9.1"
   },
   "devDependencies": {
-    "coffee-script": "~1.8.0",
     "yargs": "^1.2.1"
   }
 }
