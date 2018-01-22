@@ -69,6 +69,7 @@
     "gulp-util": "^3.0.0",
     "jsdom": "^4.0.0",
     "lodash": "^2.4.1",
+    "nodejs-externs": "git://github.com/Jollor/nodejs-externs.git",
     "open": "0.0.5",
     "q": "^1.0.1",
     "react": "^0.12.1",
