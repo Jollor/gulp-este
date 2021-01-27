@@ -15,7 +15,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "preinstall": "coffee -c tasks/ index.coffee",
+    "install": "coffee -c tasks/ index.coffee",
     "clean": "rm tasks/*.js index.js",
     "test": "gulp test"
   },
